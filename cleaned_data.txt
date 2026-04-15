@@ -1,0 +1,5 @@
+1. "please tell me order status"
+Cleaned: "Please tell me order status"
+
+2. "why bill so high this month"
+Cleaned: "Why is my bill so high this month"
