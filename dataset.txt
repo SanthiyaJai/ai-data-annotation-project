@@ -1,0 +1,8 @@
+1. "I want to know my order status"
+Label: REQUEST | CATEGORY: SUPPORT
+
+2. "Why is my bill so high this month?"
+Label: COMPLAINT | CATEGORY: BILLING
+
+3. "Your package has been shipped successfully"
+Label: INFORMATION | CATEGORY: DELIVERY
